@@ -39,7 +39,7 @@ If you want to be part of the team behind this, get in touch on help@devopsacade
   - [ITBR Australia Community](#itbr-australia-community)
   - [Contino](#contino)
 
-
+# How it works
 # How it Works
 
 To complete the DevOps Academy, you will have to go through 8 classes with hands-on exercises. For each exercise, you will have to submit your code via pull requests to this repository as per [instructions](#exercises). The last two labs are complete projects based on current industry needs.
